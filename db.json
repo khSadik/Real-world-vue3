@@ -1,0 +1,35 @@
+[
+   {
+      "id":5928101,
+      "category":"animal walfare",
+      "title":"Cat Adoption Day",
+      "description":"Find your new feline friend in this event",
+      "location":"Meow Town",
+      "date":"January 30, 2022",
+      "time":"4.00pm",
+      "petsAllowed":true,
+      "organizer":"Cats Society"
+   },
+   {
+      "id":5928102,
+      "category":"food",
+      "title":"Community Gardening",
+      "description":"Join us  as we tend to the community edible plants",
+      "location":"Flora City",
+      "date":"March 20, 2022",
+      "time":"1.00pm",
+      "petsAllowed":true,
+      "organizer":"Fern Pollin"
+   },
+   {
+      "id":9928101,
+      "category":"sustainability",
+      "title":"Beach Cleanup",
+      "description":"Help pick up trash along the shore",
+      "location":"Playa del carmen",
+      "date":"January 22, 2022",
+      "time":"11.00am",
+      "petsAllowed":false,
+      "organizer":"Cerey Wales"
+   }
+]
